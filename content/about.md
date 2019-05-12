@@ -6,14 +6,17 @@ aliases = ["about-me","contact"]
   name = "Samet Aylak"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Hello everyone,
 
-It makes use of a variety of open source projects including:
+My name is **Samet Aylak** and I am a Software Developer at Protel.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+My main interests are **CI/CD Pipelines**, **Go**, **Javascript**, **Ruby-Crystal**, **Docker**, **Kubernetes**. Also you can find me in **Medium**, **Github**, **Twitter** and **LinkedIn**.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* [Medium](https://medium.com/@sametaylak)
+* [Github](https://github.com/sametaylak)
+* [Twitter](https://twitter.com/sametaylak_)
+* [LinkedIn](https://www.linkedin.com/in/samet-aylak-358586b5/en)
+
+In this blog, you can join me on my career adventures. Every day I am learning new kinds of stuff about programming and I will share these experiences with you as much as I can.
+
+If you have any questions please send an email to: **sametaylak29@gmail.com**
