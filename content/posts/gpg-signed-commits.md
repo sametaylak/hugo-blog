@@ -1,7 +1,7 @@
 ---
 title: "GPG Signed Commits"
 date: 2019-07-15T19:16:29+03:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
