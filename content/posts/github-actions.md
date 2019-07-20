@@ -18,15 +18,15 @@ As you know well, GitHub Actions still on the beta. There may bugs. Github Actio
 
 - Go to Actions on your repo
 
-{{ ss1 }}
+![SS1](/static/images/github-actions/ss1.png)
 
 - Create a new workflow
 
-{{ ss2 }}
+![SS2](/static/images/github-actions/ss2.png)
 
 - Here is what you should see
 
-{{ ss3 }}
+![SS3](/static/images/github-actions/ss3.png)
 
 Now, let's suppose we have a NodeJS package. We want to build and deploy it on every push on the master branch. You can build workflow with a visual editor but my choice is code-based.
 
