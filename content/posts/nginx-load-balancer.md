@@ -23,7 +23,7 @@ This commands will create a virtual machine and boot it for us. This may take a 
 Then you can connect the virtual machine with `vagrant ssh` command. Now, we can install Nginx to our machine.
 ```
 sudo apt-get update
-sudo apt-get install Nginx
+sudo apt-get install nginx
 ```
 
 You can check your Nginx server with that command:
@@ -32,7 +32,7 @@ curl localhost:80
 ```
 
 ## Create Server Blocks
-Now, We can create out Server Blocks which means Virtual Hosts.
+Now, We can create our Server Blocks which means Virtual Hosts.
 ```
 sudo mkdir -p /var/www/site1.com/html
 sudo mkdir -p /var/www/site2.com/html
