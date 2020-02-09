@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = "development, developer, programming, blog, samet, aylak, samet aylak"
   images = [""]
 
-  homeSubtitle = "Software Developer at Protel"
+  homeSubtitle = "Software Developer at Toolio"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
